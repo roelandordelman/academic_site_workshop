@@ -2,6 +2,7 @@
 layout: page
 excerpt: "About Me..."
 ---
+
 # Research using NISV's LAB environment
 
 At NISV, the Netherlands Institute for Sound and Vision (Nederlands Instituut voor Beeld en Geluid, shorty "Beeld en Geluid" in Dutch) we host a so-called "experimental environment" ("X-omgeving" in Dutch) to foster research and innovation in the area of accessing large multimedia data collections. The X-environment can be seen as a ICT infrastructure that encloses both data collections and tools to work with the data, such as tools for audio and video analysis, search and visualisation. On top of the X-environment we develop experimental products or innovation LABs around specific use cases. For example, we have the Media Suite that functions as a innovation LAB to work with scholars in the Humanities on research questions related to novel types of (often data-driven) scholarly research using large multimedia data collections.
