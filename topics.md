@@ -1,6 +1,4 @@
 ---
-layout: page
-title: Topics
+layout: post-index
+title: Research Topics
 ---
-
-Text for your page goes here.
