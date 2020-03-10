@@ -1,4 +1,4 @@
 ---
-layout: topics-index
+layout: post-index
 title: Research Topics
 ---
