@@ -7,4 +7,5 @@ comments: true
 category: blog
 ---
 
-This is an example speech technology project 
+# Speech Recognition Adaptation 
+The X-environment is equiped with a speech recognition service with a standard 'general purpose' vocabulary. However, for some content ...  
