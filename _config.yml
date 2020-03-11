@@ -2,12 +2,12 @@
 
 title: Research Topics in Media Innovation
 locale: en_US
-logo: Beeld_en_Geluid_Logo.svg.png # filename of a logo image that has been placed into your images directory
+logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: NISV LABs
-  avatar: IMG_7152.JPG
+  avatar: Beeld_en_Geluid_Logo.svg.png
   bio: "Roeland Ordelman"
   email: rordelman@beeldengeluid.nl
   # Do not include the @ symbol in your Twitter username
