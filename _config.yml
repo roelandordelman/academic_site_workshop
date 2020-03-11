@@ -6,9 +6,9 @@ logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Beeld en Geluid LABs
+  name: NISV LABs
   avatar: IMG_7152.JPG
-  bio: "Manager: Roeland Ordelman"
+  bio: "Roeland Ordelman"
   email: rordelman@beeldengeluid.nl
   # Do not include the @ symbol in your Twitter username
   twitter: roelandordelman
