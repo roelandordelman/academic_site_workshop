@@ -7,4 +7,4 @@ At NISV, the Netherlands Institute for Sound and Vision (Nederlands Instituut vo
 
 Either wihtin or outside a specific LAB, the X-environment provides the opportunity to do ICT-related research with multimedia data collections on various levels. Beeld en Geluid works closely together with universities and research institutes in the Netherlands. We offer internship positions on Bachelor and Master level as well as possibilities to work with us as embedded PhD student or researcher (often via a research /innovation project). We also welcome applications for new research topics. In the [topics menu](https://roelandordelman.github.io/research-topics-at-nisv/topics/), you find a list of topics in different areas that you can select or use as inspiration.
 
-<img align="middle" src="https://roelandordelman.github.com/images/IMG_7152.JPG" height="300">
+<img align="middle" src="https://github.com/roelandordelman/research-topics-at-nisv/blob/master/images/IMG_7152.JPG" height="300">
